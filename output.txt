@@ -1,0 +1,3256 @@
+MerkelBot | Trading App | Automating BTC/USDT trades 
+
+calculateMA 9521.45
+calculateEMA Old EMA is9521.45 | New EMA is 9534.63 | Δ with previous EMA is -13.1787
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9586.092437 | min ask: 8587.094105 | max bid: 9541.219588 | min bid: 9498.534780
+Processing 0.464279 BTC for 8587.09 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9586.092437 | min ask: 8587.094105 | max bid: 9541.219588 | min bid: 9498.534780
+Processing 0.275598 BTC for 8587.09 USDT
+SELL offer was accepted.
+max ask: 9586.092437 | min ask: 8587.094105 | max bid: 9541.219588 | min bid: 9498.534780
+Processing 0.0237156 BTC for 8587.09 USDT
+SELL offer was accepted.
+max ask: 9586.092437 | min ask: 8587.094105 | max bid: 9541.219588 | min bid: 9498.534780
+Processing 0.236407 BTC for 8587.09 USDT
+New wallet situation
+BTC : 9.535721
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 103986.806949
+
+calculateEMA Old EMA is9534.63 | New EMA is 9538.88 | Δ with previous EMA is -4.25781
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9587.687624 | min ask: 8588.827094 | max bid: 9542.416363 | min bid: 9495.000000
+Processing 0.2 BTC for 8588.83 USDT
+SELL offer was accepted.
+max ask: 9587.687624 | min ask: 8588.827094 | max bid: 9542.416363 | min bid: 9495.000000
+Processing 0.0429481 BTC for 8588.83 USDT
+SELL offer was accepted.
+max ask: 9587.687624 | min ask: 8588.827094 | max bid: 9542.416363 | min bid: 9495.000000
+Processing 0.023853 BTC for 8588.83 USDT
+SELL offer was accepted.
+max ask: 9587.687624 | min ask: 8588.827094 | max bid: 9542.416363 | min bid: 9495.000000
+Processing 0.276551 BTC for 8588.83 USDT
+SELL offer was accepted.
+max ask: 9587.687624 | min ask: 8588.827094 | max bid: 9542.416363 | min bid: 9495.000000
+Processing 0.0590374 BTC for 8588.83 USDT
+SELL offer was accepted.
+max ask: 9587.687624 | min ask: 8588.827094 | max bid: 9542.416363 | min bid: 9495.000000
+Processing 0.2 BTC for 8588.83 USDT
+SELL offer was accepted.
+max ask: 9587.687624 | min ask: 8588.827094 | max bid: 9542.416363 | min bid: 9495.000000
+Processing 0.197611 BTC for 8588.83 USDT
+New wallet situation
+BTC : 10.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 100000.000000
+
+calculateEMA Old EMA is9538.88 | New EMA is 9541.97 | Δ with previous EMA is -3.08789
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8591.942605 | max bid: 9546.604466 | min bid: 9500.470726
+Processing 0.46405 BTC for 8591.94 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8591.942605 | max bid: 9546.604466 | min bid: 9500.470726
+Processing 0.0256495 BTC for 8591.94 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8591.942605 | max bid: 9546.604466 | min bid: 9500.470726
+Processing 0.10399 BTC for 8591.94 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8591.942605 | max bid: 9546.604466 | min bid: 9500.470726
+Processing 0.2 BTC for 8591.94 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8591.942605 | max bid: 9546.604466 | min bid: 9500.470726
+Processing 0.2 BTC for 8591.94 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8591.942605 | max bid: 9546.604466 | min bid: 9500.470726
+Processing 0.00631041 BTC for 8591.94 USDT
+New wallet situation
+BTC : 9.535950
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 103987.092083
+
+calculateEMA Old EMA is9541.97 | New EMA is 9543.12 | Δ with previous EMA is -1.14941
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9575.922213 | min ask: 8590.879108 | max bid: 9545.585019 | min bid: 9500.470726
+Processing 1 BTC for 8590.88 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108590.879108
+
+calculateEMA Old EMA is9543.12 | New EMA is 9543.56 | Δ with previous EMA is -0.442383
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9573.000000 | min ask: 8590.204764 | max bid: 9544.701574 | min bid: 9500.000000
+Processing 0.511068 BTC for 8590.2 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9573.000000 | min ask: 8590.204764 | max bid: 9544.701574 | min bid: 9500.000000
+Processing 0.464101 BTC for 8590.2 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9573.000000 | min ask: 8590.204764 | max bid: 9544.701574 | min bid: 9500.000000
+Processing 0.024831 BTC for 8590.2 USDT
+New wallet situation
+BTC : 9.024831
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108376.901647
+
+calculateEMA Old EMA is9543.56 | New EMA is 9543.09 | Δ with previous EMA is 0.470703
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9543.522837 | max bid: 10495.850553 | min bid: 9492.781852
+Processing 1 BTC for 9543.52 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90456.477163
+
+calculateEMA Old EMA is9543.09 | New EMA is 9542.82 | Δ with previous EMA is 0.269531
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9542.097303 | max bid: 10496.069910 | min bid: 9500.000000
+Processing 0.0158909 BTC for 9542.1 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9542.097303 | max bid: 10496.069910 | min bid: 9500.000000
+Processing 0.984109 BTC for 9542.37 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.984109
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90609.262562
+
+calculateEMA Old EMA is9542.82 | New EMA is 9542.24 | Δ with previous EMA is 0.583984
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9541.394642 | max bid: 10493.893136 | min bid: 9499.112149
+Processing 0.299487 BTC for 9541.39 USDT
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9541.394642 | max bid: 10493.893136 | min bid: 9499.112149
+Processing 0.700513 BTC for 9541.87 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.700513
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 93315.797867
+
+calculateEMA Old EMA is9542.24 | New EMA is 9540.74 | Δ with previous EMA is 1.50195
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9533.976708 | max bid: 10487.374378 | min bid: 9495.000000
+Processing 1 BTC for 9533.98 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90466.023292
+
+calculateEMA Old EMA is9540.74 | New EMA is 9538.71 | Δ with previous EMA is 2.02734
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9529.053627 | max bid: 10481.434911 | min bid: 9490.000000
+Processing 1 BTC for 9529.05 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90470.946373
+
+calculateEMA Old EMA is9538.71 | New EMA is 9537.37 | Δ with previous EMA is 1.33789
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9578.758448 | min ask: 9531.028913 | max bid: 10483.017777 | min bid: 9498.300000
+Processing 0.210832 BTC for 9531.03 USDT
+BUY offer was accepted.
+max ask: 9578.758448 | min ask: 9531.028913 | max bid: 10483.017777 | min bid: 9498.300000
+Processing 0.789168 BTC for 9531.92 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.789168
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92477.720079
+
+calculateEMA Old EMA is9537.37 | New EMA is 9536.71 | Δ with previous EMA is 0.665039
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9581.610800 | min ask: 9533.481307 | max bid: 10485.992229 | min bid: 9500.000000
+Processing 1 BTC for 9533.48 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90466.518693
+
+calculateEMA Old EMA is9536.71 | New EMA is 9535.86 | Δ with previous EMA is 0.852539
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9530.313414 | max bid: 10483.345331 | min bid: 9495.454545
+Processing 0.200757 BTC for 9530.31 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9530.313414 | max bid: 10483.345331 | min bid: 9495.454545
+Processing 0.200757 BTC for 9530.31 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9530.313414 | max bid: 10483.345331 | min bid: 9495.454545
+Processing 0.598487 BTC for 9530.63 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.598487
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 94296.046137
+
+calculateEMA Old EMA is9535.86 | New EMA is 9534.71 | Δ with previous EMA is 1.15039
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9530.841030 | max bid: 10479.320458 | min bid: 9480.000000
+Processing 0.19105 BTC for 9530.84 USDT
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9530.841030 | max bid: 10479.320458 | min bid: 9480.000000
+Processing 0.80895 BTC for 9531.66 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.808950
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92289.365189
+
+calculateEMA Old EMA is9534.71 | New EMA is 9533.17 | Δ with previous EMA is 1.5332
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9521.677303 | max bid: 10473.845033 | min bid: 9495.057332
+Processing 1 BTC for 9521.68 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90478.322697
+
+calculateEMA Old EMA is9533.17 | New EMA is 9532.03 | Δ with previous EMA is 1.14453
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9523.163364 | max bid: 10475.153531 | min bid: 9497.000000
+Processing 0.00641614 BTC for 9523.16 USDT
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9523.163364 | max bid: 10475.153531 | min bid: 9497.000000
+Processing 0.993584 BTC for 9524.17 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.993584
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90536.935180
+
+calculateEMA Old EMA is9532.03 | New EMA is 9531.04 | Δ with previous EMA is 0.988281
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9586.092437 | min ask: 9524.083723 | max bid: 10474.898053 | min bid: 9492.781852
+Processing 0.17353 BTC for 9524.08 USDT
+BUY offer was accepted.
+max ask: 9586.092437 | min ask: 9524.083723 | max bid: 10474.898053 | min bid: 9492.781852
+Processing 0.82647 BTC for 9524.59 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.826470
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92128.216094
+
+calculateEMA Old EMA is9531.04 | New EMA is 9530.1 | Δ with previous EMA is 0.935547
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9581.610800 | min ask: 9521.682378 | max bid: 10473.850616 | min bid: 9493.813502
+Processing 1 BTC for 9521.68 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90478.317622
+
+calculateEMA Old EMA is9530.1 | New EMA is 9529.43 | Δ with previous EMA is 0.669922
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9581.610800 | min ask: 9525.879891 | max bid: 10475.377921 | min bid: 9481.818182
+Processing 1 BTC for 9525.88 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90474.120109
+
+calculateEMA Old EMA is9529.43 | New EMA is 9529.29 | Δ with previous EMA is 0.147461
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.437074 | max bid: 10480.593037 | min bid: 9495.000000
+Processing 0.52053 BTC for 9527.44 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.437074 | max bid: 10480.593037 | min bid: 9495.000000
+Processing 0.0925296 BTC for 9528 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.437074 | max bid: 10480.593037 | min bid: 9495.000000
+Processing 0.0271069 BTC for 9528.01 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.437074 | max bid: 10480.593037 | min bid: 9495.000000
+Processing 0.00741295 BTC for 9528.88 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.437074 | max bid: 10480.593037 | min bid: 9495.000000
+Processing 0.0528825 BTC for 9530.11 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.437074 | max bid: 10480.593037 | min bid: 9495.000000
+Processing 0.299538 BTC for 9530.11 USDT
+New wallet situation
+BTC : 10.520530
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 95040.683180
+
+calculateEMA Old EMA is9529.29 | New EMA is 9529.25 | Δ with previous EMA is 0.0351562
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9590.000000 | min ask: 9528.879891 | max bid: 10481.767880 | min bid: 9497.000000
+Processing 0.00741295 BTC for 9528.88 USDT
+BUY offer was accepted.
+max ask: 9590.000000 | min ask: 9528.879891 | max bid: 10481.767880 | min bid: 9497.000000
+Processing 0.0257027 BTC for 9530.27 USDT
+BUY offer was accepted.
+max ask: 9590.000000 | min ask: 9528.879891 | max bid: 10481.767880 | min bid: 9497.000000
+Processing 0.966884 BTC for 9532 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.966884
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90783.657995
+
+calculateEMA Old EMA is9529.25 | New EMA is 9528.97 | Δ with previous EMA is 0.27832
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.741669 | max bid: 10478.500708 | min bid: 9497.000000
+Processing 0.0727406 BTC for 9527.74 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.741669 | max bid: 10478.500708 | min bid: 9497.000000
+Processing 0.0227068 BTC for 9528.23 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.741669 | max bid: 10478.500708 | min bid: 9497.000000
+Processing 0.0238572 BTC for 9528.35 USDT
+BUY offer was accepted.
+max ask: 9585.000000 | min ask: 9527.741669 | max bid: 10478.500708 | min bid: 9497.000000
+Processing 0.880695 BTC for 9528.35 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.880695
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 91608.429907
+
+calculateEMA Old EMA is9528.97 | New EMA is 9528.97 | Δ with previous EMA is 0.00683594
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9581.610800 | min ask: 9528.879891 | max bid: 10481.767880 | min bid: 9500.466339
+Processing 1 BTC for 9528.88 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90471.120109
+
+calculateEMA Old EMA is9528.97 | New EMA is 9528.41 | Δ with previous EMA is 0.560547
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9521.677303 | max bid: 10473.845033 | min bid: 9479.421824
+Processing 1 BTC for 9521.68 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90478.322697
+
+calculateEMA Old EMA is9528.41 | New EMA is 9528.03 | Δ with previous EMA is 0.379883
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.0238572 BTC for 9523.27 USDT
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.0237792 BTC for 9526.98 USDT
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.52369 BTC for 9527.3 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.029629 BTC for 9527.4 USDT
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.127106 BTC for 9528.88 USDT
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.2 BTC for 9528.88 USDT
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.0349085 BTC for 9528.88 USDT
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.00647745 BTC for 9528.88 USDT
+BUY offer was accepted.
+max ask: 9587.687624 | min ask: 9523.274751 | max bid: 10475.602226 | min bid: 9492.500000
+Processing 0.030553 BTC for 9531.2 USDT
+New wallet situation
+BTC : 10.523690
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 95010.648263
+
+calculateEMA Old EMA is9528.03 | New EMA is 9527.69 | Δ with previous EMA is 0.339844
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9524.571141 | max bid: 10475.602226 | min bid: 9494.000000
+Processing 0.0238572 BTC for 9524.57 USDT
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9524.571141 | max bid: 10475.602226 | min bid: 9494.000000
+Processing 0.976143 BTC for 9524.57 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.976143
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90702.658553
+
+calculateEMA Old EMA is9527.69 | New EMA is 9527.38 | Δ with previous EMA is 0.304688
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9523.585217 | max bid: 10475.602226 | min bid: 9495.000000
+Processing 1 BTC for 9523.59 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90476.414783
+
+calculateEMA Old EMA is9527.38 | New EMA is 9527 | Δ with previous EMA is 0.380859
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9521.677303 | max bid: 10473.845033 | min bid: 9497.000000
+Processing 1 BTC for 9521.68 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90478.322697
+
+calculateEMA Old EMA is9527 | New EMA is 9526.66 | Δ with previous EMA is 0.34375
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9521.677303 | max bid: 10473.845033 | min bid: 9495.000000
+Processing 1 BTC for 9521.68 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90478.322697
+
+calculateEMA Old EMA is9526.66 | New EMA is 9526.56 | Δ with previous EMA is 0.0957031
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9525.403234 | max bid: 10477.646555 | min bid: 9486.872481
+Processing 0.102053 BTC for 9525.4 USDT
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9525.403234 | max bid: 10477.646555 | min bid: 9486.872481
+Processing 0.2 BTC for 9526.3 USDT
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9525.403234 | max bid: 10477.646555 | min bid: 9486.872481
+Processing 0.2 BTC for 9526.3 USDT
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9525.403234 | max bid: 10477.646555 | min bid: 9486.872481
+Processing 0.0281189 BTC for 9526.3 USDT
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9525.403234 | max bid: 10477.646555 | min bid: 9486.872481
+Processing 0.2 BTC for 9526.82 USDT
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9525.403234 | max bid: 10477.646555 | min bid: 9486.872481
+Processing 0.269828 BTC for 9527.2 USDT
+New wallet situation
+BTC : 10.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 100000.000000
+
+calculateEMA Old EMA is9526.56 | New EMA is 9526.47 | Δ with previous EMA is 0.0927734
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9526.476329 | max bid: 10477.536555 | min bid: 9500.000000
+Processing 1 BTC for 9526.48 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90473.523671
+
+calculateEMA Old EMA is9526.47 | New EMA is 9526.26 | Δ with previous EMA is 0.204102
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9576.528346 | min ask: 9523.000000 | max bid: 10475.300000 | min bid: 9485.000000
+Processing 1 BTC for 9523 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90477.000000
+
+calculateEMA Old EMA is9526.26 | New EMA is 9525.88 | Δ with previous EMA is 0.383789
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9519.558012 | max bid: 10471.513813 | min bid: 9500.000000
+Processing 1 BTC for 9519.56 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90480.441988
+
+calculateEMA Old EMA is9525.88 | New EMA is 9525.67 | Δ with previous EMA is 0.207031
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9523.635862 | max bid: 10474.378852 | min bid: 9495.454545
+Processing 1 BTC for 9523.64 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90476.364138
+
+calculateEMA Old EMA is9525.67 | New EMA is 9525.23 | Δ with previous EMA is 0.447266
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9517.405872 | max bid: 10469.146459 | min bid: 9492.781852
+Processing 1 BTC for 9517.41 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90482.594128
+
+calculateEMA Old EMA is9525.23 | New EMA is 9524.76 | Δ with previous EMA is 0.461914
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.312544 | min ask: 9518.656345 | max bid: 10468.101942 | min bid: 9490.602731
+Processing 1 BTC for 9518.66 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90481.343655
+
+calculateEMA Old EMA is9524.76 | New EMA is 9524.4 | Δ with previous EMA is 0.360352
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9518.276265 | max bid: 10469.513318 | min bid: 9490.000000
+Processing 1 BTC for 9518.28 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90481.723735
+
+calculateEMA Old EMA is9524.4 | New EMA is 9524.03 | Δ with previous EMA is 0.375
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9576.528346 | min ask: 9518.087318 | max bid: 10468.575134 | min bid: 9493.813502
+Processing 0.658877 BTC for 9518.09 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9576.528346 | min ask: 9518.087318 | max bid: 10468.575134 | min bid: 9493.813502
+Processing 0.341123 BTC for 9518.38 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90481.813676
+
+calculateEMA Old EMA is9524.03 | New EMA is 9523.49 | Δ with previous EMA is 0.542969
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9570.000000 | min ask: 9513.303602 | max bid: 10464.181595 | min bid: 9489.000000
+Processing 0.683585 BTC for 9513.3 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9570.000000 | min ask: 9513.303602 | max bid: 10464.181595 | min bid: 9489.000000
+Processing 0.2 BTC for 9513.3 USDT
+BUY offer was accepted.
+max ask: 9570.000000 | min ask: 9513.303602 | max bid: 10464.181595 | min bid: 9489.000000
+Processing 0.116415 BTC for 9513.3 USDT
+New wallet situation
+BTC : 10.683585
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 93496.849499
+
+calculateEMA Old EMA is9523.49 | New EMA is 9523.11 | Δ with previous EMA is 0.376953
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9516.359872 | max bid: 10467.122896 | min bid: 9490.602731
+Processing 0.427554 BTC for 9516.36 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9516.359872 | max bid: 10467.122896 | min bid: 9490.602731
+Processing 0.572446 BTC for 9516.36 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90483.640128
+
+calculateEMA Old EMA is9523.11 | New EMA is 9523.12 | Δ with previous EMA is -0.00878906
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9576.528346 | min ask: 8570.968150 | max bid: 9523.007492 | min bid: 9492.781852
+Processing 0.700908 BTC for 8570.97 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9576.528346 | min ask: 8570.968150 | max bid: 9523.007492 | min bid: 9492.781852
+Processing 0.299092 BTC for 8570.97 USDT
+New wallet situation
+BTC : 9.299092
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106007.461172
+
+calculateEMA Old EMA is9523.12 | New EMA is 9523.19 | Δ with previous EMA is -0.0683594
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9572.046365 | min ask: 8572.167597 | max bid: 9523.678220 | min bid: 9490.602731
+Processing 1 BTC for 8572.17 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108572.167597
+
+calculateEMA Old EMA is9523.19 | New EMA is 9523.1 | Δ with previous EMA is 0.0810547
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9521.629297 | max bid: 10473.508721 | min bid: 9493.813502
+Processing 1 BTC for 9521.63 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90478.370703
+
+calculateEMA Old EMA is9523.1 | New EMA is 9522.83 | Δ with previous EMA is 0.271484
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9570.000000 | min ask: 9516.860092 | max bid: 10468.546101 | min bid: 9486.872481
+Processing 1 BTC for 9516.86 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90483.139908
+
+calculateEMA Old EMA is9522.83 | New EMA is 9522.75 | Δ with previous EMA is 0.078125
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9521.814033 | max bid: 10473.078314 | min bid: 9490.602731
+Processing 0.042352 BTC for 9521.81 USDT
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9521.814033 | max bid: 10473.078314 | min bid: 9490.602731
+Processing 0.957648 BTC for 9521.89 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.957648
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90881.385589
+
+calculateEMA Old EMA is9522.75 | New EMA is 9522.96 | Δ with previous EMA is -0.208008
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8574.971300 | max bid: 9528.879891 | min bid: 9495.000000
+Processing 1 BTC for 8574.97 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108574.971300
+
+calculateEMA Old EMA is9522.96 | New EMA is 9523.2 | Δ with previous EMA is -0.241211
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9575.922213 | min ask: 8575.991902 | max bid: 9528.879891 | min bid: 9495.454545
+Processing 1 BTC for 8575.99 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108575.991902
+
+calculateEMA Old EMA is9523.2 | New EMA is 9523.37 | Δ with previous EMA is -0.169922
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9575.922213 | min ask: 8574.690797 | max bid: 9527.434218 | min bid: 9495.000000
+Processing 1 BTC for 8574.69 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108574.690797
+
+calculateEMA Old EMA is9523.37 | New EMA is 9523.56 | Δ with previous EMA is -0.183594
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8575.258106 | max bid: 9528.064562 | min bid: 9496.400000
+Processing 1 BTC for 8575.26 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108575.258106
+
+calculateEMA Old EMA is9523.56 | New EMA is 9523.71 | Δ with previous EMA is -0.154297
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9573.061504 | min ask: 8574.829336 | max bid: 9527.588151 | min bid: 9492.781852
+Processing 0.0328434 BTC for 8574.83 USDT
+SELL offer was accepted.
+max ask: 9573.061504 | min ask: 8574.829336 | max bid: 9527.588151 | min bid: 9492.781852
+Processing 0.0265636 BTC for 8574.83 USDT
+SELL offer was accepted.
+max ask: 9573.061504 | min ask: 8574.829336 | max bid: 9527.588151 | min bid: 9492.781852
+Processing 0.541397 BTC for 8574.83 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9573.061504 | min ask: 8574.829336 | max bid: 9527.588151 | min bid: 9492.781852
+Processing 0.399196 BTC for 8574.83 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.059407
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108065.424706
+
+calculateEMA Old EMA is9523.71 | New EMA is 9523.71 | Δ with previous EMA is 0.00585938
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9523.573361 | max bid: 10475.934459 | min bid: 9490.000000
+Processing 0.122906 BTC for 9523.57 USDT
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9523.573361 | max bid: 10475.934459 | min bid: 9490.000000
+Processing 0.0277294 BTC for 9524.24 USDT
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9523.573361 | max bid: 10475.934459 | min bid: 9490.000000
+Processing 0.8 BTC for 9527.14 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9580.000000 | min ask: 9523.573361 | max bid: 10475.934459 | min bid: 9490.000000
+Processing 0.0493645 BTC for 9527.59 USDT
+New wallet situation
+BTC : 10.800000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92378.289422
+
+calculateEMA Old EMA is9523.71 | New EMA is 9523.75 | Δ with previous EMA is -0.0400391
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9576.528346 | min ask: 8572.293543 | max bid: 9524.770603 | min bid: 9495.454545
+Processing 0.0238572 BTC for 8572.29 USDT
+SELL offer was accepted.
+max ask: 9576.528346 | min ask: 8572.293543 | max bid: 9524.770603 | min bid: 9495.454545
+Processing 0.976143 BTC for 8572.29 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.023857
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108367.782536
+
+calculateEMA Old EMA is9523.75 | New EMA is 9523.76 | Δ with previous EMA is -0.0166016
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8571.787087 | max bid: 9524.207875 | min bid: 9495.454545
+Processing 1 BTC for 8571.79 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108571.787087
+
+calculateEMA Old EMA is9523.76 | New EMA is 9523.83 | Δ with previous EMA is -0.0693359
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8573.150956 | max bid: 9525.723284 | min bid: 9495.200000
+Processing 1 BTC for 8573.15 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108573.150956
+
+calculateEMA Old EMA is9523.83 | New EMA is 9524.15 | Δ with previous EMA is -0.320312
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8579.673070 | max bid: 9532.654374 | min bid: 9493.813502
+Processing 1 BTC for 8579.67 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108579.673070
+
+calculateEMA Old EMA is9524.15 | New EMA is 9524.56 | Δ with previous EMA is -0.407227
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8582.373070 | max bid: 9535.970078 | min bid: 9500.470726
+Processing 0.448476 BTC for 8582.37 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8582.373070 | max bid: 9535.970078 | min bid: 9500.470726
+Processing 0.551524 BTC for 8582.37 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108582.373070
+
+calculateEMA Old EMA is9524.56 | New EMA is 9524.91 | Δ with previous EMA is -0.351562
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8581.441980 | max bid: 9534.935533 | min bid: 9498.534780
+Processing 1 BTC for 8581.44 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108581.441980
+
+calculateEMA Old EMA is9524.91 | New EMA is 9525.18 | Δ with previous EMA is -0.268555
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9495.454545
+Processing 0.5 BTC for 8579.67 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9495.454545
+Processing 0.025505 BTC for 8579.67 USDT
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9495.454545
+Processing 0.00419771 BTC for 8579.67 USDT
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9495.454545
+Processing 0.2 BTC for 8579.67 USDT
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9495.454545
+Processing 0.2 BTC for 8579.67 USDT
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9495.454545
+Processing 0.0600962 BTC for 8579.67 USDT
+SELL offer was accepted.
+max ask: 9579.290409 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9495.454545
+Processing 0.0102011 BTC for 8579.67 USDT
+New wallet situation
+BTC : 9.500000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 104289.836535
+
+calculateEMA Old EMA is9525.18 | New EMA is 9525.44 | Δ with previous EMA is -0.255859
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8579.673070 | max bid: 9532.970078 | min bid: 9500.000000
+Processing 1 BTC for 8579.67 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108579.673070
+
+calculateEMA Old EMA is9525.44 | New EMA is 9525.78 | Δ with previous EMA is -0.348633
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9575.922213 | min ask: 8582.628591 | max bid: 9537.778408 | min bid: 9500.470726
+Processing 1 BTC for 8582.63 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108582.628591
+
+calculateEMA Old EMA is9525.78 | New EMA is 9526.18 | Δ with previous EMA is -0.393555
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.605610 | min ask: 8584.365752 | max bid: 9538.184169 | min bid: 9498.534780
+Processing 1 BTC for 8584.37 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108584.365752
+
+calculateEMA Old EMA is9526.18 | New EMA is 9526.5 | Δ with previous EMA is -0.323242
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9581.610800 | min ask: 8582.872253 | max bid: 9536.524725 | min bid: 9495.000000
+Processing 1 BTC for 8582.87 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108582.872253
+
+calculateEMA Old EMA is9526.5 | New EMA is 9526.79 | Δ with previous EMA is -0.291992
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8582.400000 | max bid: 9536.000000 | min bid: 9500.000000
+Processing 0.0104866 BTC for 8582.4 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8582.400000 | max bid: 9536.000000 | min bid: 9500.000000
+Processing 0.989513 BTC for 8582.4 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.010487
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108492.399976
+
+calculateEMA Old EMA is9526.79 | New EMA is 9526.87 | Δ with previous EMA is -0.0751953
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8576.348816 | max bid: 9528.800000 | min bid: 9489.000000
+Processing 0.00134 BTC for 8576.35 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8576.348816 | max bid: 9528.800000 | min bid: 9489.000000
+Processing 0.0281033 BTC for 8576.35 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8576.348816 | max bid: 9528.800000 | min bid: 9489.000000
+Processing 0.464885 BTC for 8576.35 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8576.348816 | max bid: 9528.800000 | min bid: 9489.000000
+Processing 0.176604 BTC for 8576.35 USDT
+SELL offer was accepted.
+max ask: 9580.000000 | min ask: 8576.348816 | max bid: 9528.800000 | min bid: 9489.000000
+Processing 0.329067 BTC for 8576.35 USDT
+New wallet situation
+BTC : 9.535115
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 103987.018664
+
+calculateEMA Old EMA is9526.87 | New EMA is 9526.73 | Δ with previous EMA is 0.141602
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9581.610800 | min ask: 9525.858782 | max bid: 10474.315359 | min bid: 9489.000000
+Processing 0.413939 BTC for 9525.86 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9581.610800 | min ask: 9525.858782 | max bid: 10474.315359 | min bid: 9489.000000
+Processing 0.2 BTC for 9525.86 USDT
+BUY offer was accepted.
+max ask: 9581.610800 | min ask: 9525.858782 | max bid: 10474.315359 | min bid: 9489.000000
+Processing 0.386061 BTC for 9525.86 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.800000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92379.312975
+
+calculateEMA Old EMA is9526.73 | New EMA is 9526.59 | Δ with previous EMA is 0.137695
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9579.000000 | min ask: 9522.873056 | max bid: 10474.253088 | min bid: 9489.000000
+Processing 0.0104242 BTC for 9522.87 USDT
+BUY offer was accepted.
+max ask: 9579.000000 | min ask: 9522.873056 | max bid: 10474.253088 | min bid: 9489.000000
+Processing 0.989576 BTC for 9523.51 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.989576
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90575.769730
+
+calculateEMA Old EMA is9526.59 | New EMA is 9526.37 | Δ with previous EMA is 0.217773
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9486.872481
+Processing 1 BTC for 9519.07 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90480.933062
+
+calculateEMA Old EMA is9526.37 | New EMA is 9526.16 | Δ with previous EMA is 0.208008
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9490.000000
+Processing 0.122217 BTC for 9519.07 USDT
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9490.000000
+Processing 0.171435 BTC for 9522.02 USDT
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9490.000000
+Processing 0.258093 BTC for 9523.98 USDT
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9490.000000
+Processing 0.0284127 BTC for 9523.98 USDT
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9490.000000
+Processing 0.164256 BTC for 9524.07 USDT
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9490.000000
+Processing 0.222151 BTC for 9524.07 USDT
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9519.066938 | max bid: 10470.973632 | min bid: 9490.000000
+Processing 0.0334345 BTC for 9524.32 USDT
+New wallet situation
+BTC : 10.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 100000.000000
+
+calculateEMA Old EMA is9526.16 | New EMA is 9525.96 | Δ with previous EMA is 0.205078
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9518.873375 | max bid: 10470.760713 | min bid: 9489.000000
+Processing 1 BTC for 9518.87 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90481.126625
+
+calculateEMA Old EMA is9525.96 | New EMA is 9525.58 | Δ with previous EMA is 0.375977
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9513.105402 | max bid: 10463.664251 | min bid: 9472.867037
+Processing 0.259145 BTC for 9513.11 USDT
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9513.105402 | max bid: 10463.664251 | min bid: 9472.867037
+Processing 0.740855 BTC for 9513.11 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.740855
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92952.172483
+
+calculateEMA Old EMA is9525.58 | New EMA is 9525.33 | Δ with previous EMA is 0.255859
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9579.000000 | min ask: 9514.803381 | max bid: 10467.850980 | min bid: 9485.000000
+Processing 0.0295548 BTC for 9514.8 USDT
+BUY offer was accepted.
+max ask: 9579.000000 | min ask: 9514.803381 | max bid: 10467.850980 | min bid: 9485.000000
+Processing 0.970445 BTC for 9514.8 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.970445
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90766.404540
+
+calculateEMA Old EMA is9525.33 | New EMA is 9525.06 | Δ with previous EMA is 0.267578
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9518.604027 | max bid: 10466.956588 | min bid: 9488.377734
+Processing 0.0291251 BTC for 9518.6 USDT
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9518.604027 | max bid: 10466.956588 | min bid: 9488.377734
+Processing 0.970875 BTC for 9518.6 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.970875
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90758.626172
+
+calculateEMA Old EMA is9525.06 | New EMA is 9524.8 | Δ with previous EMA is 0.253906
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9518.128158 | max bid: 10467.100977 | min bid: 9489.000000
+Processing 0.2 BTC for 9518.13 USDT
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9518.128158 | max bid: 10467.100977 | min bid: 9489.000000
+Processing 0.0490263 BTC for 9518.13 USDT
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9518.128158 | max bid: 10467.100977 | min bid: 9489.000000
+Processing 0.2 BTC for 9518.13 USDT
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9518.128158 | max bid: 10467.100977 | min bid: 9489.000000
+Processing 0.550974 BTC for 9518.13 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.550974
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 94755.761902
+
+calculateEMA Old EMA is9524.8 | New EMA is 9524.57 | Δ with previous EMA is 0.230469
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9517.878416 | max bid: 10467.622480 | min bid: 9486.872481
+Processing 0.0474792 BTC for 9517.88 USDT
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9517.878416 | max bid: 10467.622480 | min bid: 9486.872481
+Processing 0.175876 BTC for 9517.88 USDT
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9517.878416 | max bid: 10467.622480 | min bid: 9486.872481
+Processing 0.00705667 BTC for 9517.88 USDT
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9517.878416 | max bid: 10467.622480 | min bid: 9486.872481
+Processing 0.769588 BTC for 9518.13 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.769588
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92674.963072
+
+calculateEMA Old EMA is9524.57 | New EMA is 9524.62 | Δ with previous EMA is -0.0458984
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9589.000000 | min ask: 8573.716844 | max bid: 9524.362499 | min bid: 9486.872481
+Processing 0.454728 BTC for 8573.72 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9589.000000 | min ask: 8573.716844 | max bid: 9524.362499 | min bid: 9486.872481
+Processing 0.545272 BTC for 8573.72 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108573.716844
+
+calculateEMA Old EMA is9524.62 | New EMA is 9524.62 | Δ with previous EMA is -0.00390625
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8572.270711 | max bid: 9524.381754 | min bid: 9493.813502
+Processing 0.00080132 BTC for 8572.27 USDT
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8572.270711 | max bid: 9524.381754 | min bid: 9493.813502
+Processing 0.399976 BTC for 8572.27 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8572.270711 | max bid: 9524.381754 | min bid: 9493.813502
+Processing 0.52147 BTC for 8572.27 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8572.270711 | max bid: 9524.381754 | min bid: 9493.813502
+Processing 0.0254266 BTC for 8572.27 USDT
+SELL offer was accepted.
+max ask: 9579.000000 | min ask: 8572.270711 | max bid: 9524.381754 | min bid: 9493.813502
+Processing 0.0523263 BTC for 8572.27 USDT
+New wallet situation
+BTC : 9.078554
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 107898.882243
+
+calculateEMA Old EMA is9524.62 | New EMA is 9524.53 | Δ with previous EMA is 0.0917969
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9522.712420 | max bid: 10473.116613 | min bid: 9494.317364
+Processing 0.078432 BTC for 9522.71 USDT
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9522.712420 | max bid: 10473.116613 | min bid: 9494.317364
+Processing 0.0215581 BTC for 9522.71 USDT
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9522.712420 | max bid: 10473.116613 | min bid: 9494.317364
+Processing 0.90001 BTC for 9522.71 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 10.900010
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 91429.464547
+
+calculateEMA Old EMA is9524.53 | New EMA is 9524.31 | Δ with previous EMA is 0.225586
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.312544 | min ask: 9517.249623 | max bid: 10467.051974 | min bid: 9486.872481
+Processing 1 BTC for 9517.25 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90482.750377
+
+calculateEMA Old EMA is9524.31 | New EMA is 9524.06 | Δ with previous EMA is 0.244141
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9515.000000 | max bid: 10465.840000 | min bid: 9480.000000
+Processing 1 BTC for 9515 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90485.000000
+
+calculateEMA Old EMA is9524.06 | New EMA is 9523.75 | Δ with previous EMA is 0.310547
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.312544 | min ask: 9511.300000 | max bid: 10462.430000 | min bid: 9485.000000
+Processing 1 BTC for 9511.3 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90488.700000
+
+calculateEMA Old EMA is9523.75 | New EMA is 9523.52 | Δ with previous EMA is 0.235352
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9580.605610 | min ask: 9514.561125 | max bid: 10465.389724 | min bid: 9479.421824
+Processing 1 BTC for 9514.56 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90485.438875
+
+calculateEMA Old EMA is9523.52 | New EMA is 9523.29 | Δ with previous EMA is 0.229492
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9573.000000 | min ask: 9514.890657 | max bid: 10465.229712 | min bid: 9485.000000
+Processing 1 BTC for 9514.89 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90485.109343
+
+calculateEMA Old EMA is9523.29 | New EMA is 9522.98 | Δ with previous EMA is 0.310547
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9510.066938 | max bid: 10461.073632 | min bid: 9480.000000
+Processing 1 BTC for 9510.07 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90489.933062
+
+calculateEMA Old EMA is9522.98 | New EMA is 9522.71 | Δ with previous EMA is 0.271484
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.312544 | min ask: 9510.306615 | max bid: 10462.432313 | min bid: 9481.818182
+Processing 1 BTC for 9510.31 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90489.693385
+
+calculateEMA Old EMA is9522.71 | New EMA is 9522.41 | Δ with previous EMA is 0.291016
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9575.922213 | min ask: 9510.066938 | max bid: 10461.073632 | min bid: 9472.867037
+Processing 1 BTC for 9510.07 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90489.933062
+
+calculateEMA Old EMA is9522.41 | New EMA is 9522.11 | Δ with previous EMA is 0.303711
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9509.090909 | max bid: 10460.000000 | min bid: 9475.000000
+Processing 1 BTC for 9509.09 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90490.909091
+
+calculateEMA Old EMA is9522.11 | New EMA is 9521.84 | Δ with previous EMA is 0.269531
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9571.732901 | min ask: 9509.090909 | max bid: 10461.158760 | min bid: 9481.157060
+Processing 0.566936 BTC for 9509.09 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9571.732901 | min ask: 9509.090909 | max bid: 10461.158760 | min bid: 9481.157060
+Processing 0.433064 BTC for 9510 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90490.515397
+
+calculateEMA Old EMA is9521.84 | New EMA is 9521.64 | Δ with previous EMA is 0.202148
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.312544 | min ask: 9514.419809 | max bid: 10464.005355 | min bid: 9481.157060
+Processing 0.776088 BTC for 9514.42 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9572.312544 | min ask: 9514.419809 | max bid: 10464.005355 | min bid: 9481.157060
+Processing 0.223912 BTC for 9514.42 USDT
+New wallet situation
+BTC : 10.776088
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 92615.969344
+
+calculateEMA Old EMA is9521.64 | New EMA is 9521.32 | Δ with previous EMA is 0.314453
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.003659 | min ask: 9511.509099 | max bid: 10458.069028 | min bid: 9472.867037
+Processing 1 BTC for 9511.51 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90488.490901
+
+calculateEMA Old EMA is9521.32 | New EMA is 9520.97 | Δ with previous EMA is 0.357422
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9572.312544 | min ask: 9503.227677 | max bid: 10455.375491 | min bid: 9453.000000
+Processing 1 BTC for 9503.23 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90496.772323
+
+calculateEMA Old EMA is9520.97 | New EMA is 9521.17 | Δ with previous EMA is -0.205078
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9575.922213 | min ask: 8577.432701 | max bid: 9532.607925 | min bid: 9469.354615
+Processing 1 BTC for 8577.43 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108577.432701
+
+calculateEMA Old EMA is9521.17 | New EMA is 9522.01 | Δ with previous EMA is -0.834961
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9598.399534 | min ask: 8604.365918 | max bid: 9560.406570 | min bid: 9461.971778
+Processing 0.0429281 BTC for 8604.37 USDT
+SELL offer was accepted.
+max ask: 9598.399534 | min ask: 8604.365918 | max bid: 9560.406570 | min bid: 9461.971778
+Processing 0.279014 BTC for 8604.37 USDT
+SELL offer was accepted.
+max ask: 9598.399534 | min ask: 8604.365918 | max bid: 9560.406570 | min bid: 9461.971778
+Processing 0.00015417 BTC for 8604.37 USDT
+SELL offer was accepted.
+max ask: 9598.399534 | min ask: 8604.365918 | max bid: 9560.406570 | min bid: 9461.971778
+Processing 0.0100125 BTC for 8604.37 USDT
+SELL offer was accepted.
+max ask: 9598.399534 | min ask: 8604.365918 | max bid: 9560.406570 | min bid: 9461.971778
+Processing 0.0357962 BTC for 8604.37 USDT
+SELL offer was accepted.
+max ask: 9598.399534 | min ask: 8604.365918 | max bid: 9560.406570 | min bid: 9461.971778
+Processing 0.172224 BTC for 8604.37 USDT
+SELL offer was accepted.
+max ask: 9598.399534 | min ask: 8604.365918 | max bid: 9560.406570 | min bid: 9461.971778
+Processing 0.459871 BTC for 8604.37 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.540129
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 103956.895176
+
+calculateEMA Old EMA is9522.01 | New EMA is 9522.73 | Δ with previous EMA is -0.722656
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9595.000000 | min ask: 8600.695401 | max bid: 9549.632983 | min bid: 9467.554006
+Processing 1 BTC for 8600.7 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108600.695401
+
+calculateEMA Old EMA is9522.73 | New EMA is 9523.34 | Δ with previous EMA is -0.610352
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9592.900000 | min ask: 8596.848532 | max bid: 9550.559761 | min bid: 9480.000000
+Processing 1 BTC for 8596.85 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108596.848532
+
+calculateEMA Old EMA is9523.34 | New EMA is 9523.93 | Δ with previous EMA is -0.59375
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9589.000000 | min ask: 8596.923374 | max bid: 9552.137082 | min bid: 9479.421824
+Processing 1 BTC for 8596.92 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108596.923374
+
+calculateEMA Old EMA is9523.93 | New EMA is 9524.53 | Δ with previous EMA is -0.59668
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9586.092437 | min ask: 8597.855678 | max bid: 9550.868425 | min bid: 9486.872481
+Processing 0.991425 BTC for 8597.86 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9586.092437 | min ask: 8597.855678 | max bid: 9550.868425 | min bid: 9486.872481
+Processing 0.00857485 BTC for 8597.86 USDT
+New wallet situation
+BTC : 9.008575
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108524.130355
+
+calculateEMA Old EMA is9524.53 | New EMA is 9525.35 | Δ with previous EMA is -0.816406
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9591.836735 | min ask: 8608.452210 | max bid: 9555.000000 | min bid: 9490.000000
+Processing 0.861997 BTC for 8608.45 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9591.836735 | min ask: 8608.452210 | max bid: 9555.000000 | min bid: 9490.000000
+Processing 0.134627 BTC for 8608.45 USDT
+SELL offer was accepted.
+max ask: 9591.836735 | min ask: 8608.452210 | max bid: 9555.000000 | min bid: 9490.000000
+Processing 0.0033765 BTC for 8608.45 USDT
+New wallet situation
+BTC : 9.138003
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 107420.455675
+
+calculateEMA Old EMA is9525.35 | New EMA is 9526.28 | Δ with previous EMA is -0.930664
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8614.692166 | max bid: 9571.008163 | min bid: 9485.000000
+Processing 1 BTC for 8614.69 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108614.692166
+
+calculateEMA Old EMA is9526.28 | New EMA is 9527.19 | Δ with previous EMA is -0.915039
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8615.208217 | max bid: 9569.865614 | min bid: 9490.000000
+Processing 1 BTC for 8615.21 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108615.208217
+
+calculateEMA Old EMA is9527.19 | New EMA is 9528.24 | Δ with previous EMA is -1.04492
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9612.185500 | min ask: 8622.414725 | max bid: 9577.536433 | min bid: 9500.000000
+Processing 1 BTC for 8622.41 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108622.414725
+
+calculateEMA Old EMA is9528.24 | New EMA is 9529.32 | Δ with previous EMA is -1.0791
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8625.444407 | max bid: 9583.347986 | min bid: 9497.774414
+Processing 1 BTC for 8625.44 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108625.444407
+
+calculateEMA Old EMA is9529.32 | New EMA is 9530.29 | Δ with previous EMA is -0.96875
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9612.185500 | min ask: 8621.732685 | max bid: 9578.842047 | min bid: 9500.000000
+Processing 1 BTC for 8621.73 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108621.732685
+
+calculateEMA Old EMA is9530.29 | New EMA is 9531.33 | Δ with previous EMA is -1.04785
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9613.199886 | min ask: 8626.768431 | max bid: 9585.107629 | min bid: 9489.000000
+Processing 1 BTC for 8626.77 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108626.768431
+
+calculateEMA Old EMA is9531.33 | New EMA is 9532.01 | Δ with previous EMA is -0.681641
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.277135 | min ask: 8610.750000 | max bid: 9568.871471 | min bid: 9492.781852
+Processing 1 BTC for 8610.75 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108610.750000
+
+calculateEMA Old EMA is9532.01 | New EMA is 9532.61 | Δ with previous EMA is -0.594727
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8607.489507 | max bid: 9564.007646 | min bid: 9500.000000
+Processing 0.2 BTC for 8607.49 USDT
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8607.489507 | max bid: 9564.007646 | min bid: 9500.000000
+Processing 0.8 BTC for 8607.49 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.200000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106885.991605
+
+calculateEMA Old EMA is9532.61 | New EMA is 9533.28 | Δ with previous EMA is -0.670898
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8611.967250 | max bid: 9568.283449 | min bid: 9495.454545
+Processing 0.977711 BTC for 8611.97 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8611.967250 | max bid: 9568.283449 | min bid: 9495.454545
+Processing 0.0222895 BTC for 8611.97 USDT
+New wallet situation
+BTC : 9.022289
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108420.010978
+
+calculateEMA Old EMA is9533.28 | New EMA is 9533.9 | Δ with previous EMA is -0.618164
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.821432 | min ask: 8610.297636 | max bid: 9564.114131 | min bid: 9485.000000
+Processing 0.946052 BTC for 8610.3 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9609.821432 | min ask: 8610.297636 | max bid: 9564.114131 | min bid: 9485.000000
+Processing 0.0539478 BTC for 8610.3 USDT
+New wallet situation
+BTC : 9.053948
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108145.791279
+
+calculateEMA Old EMA is9533.9 | New EMA is 9534.51 | Δ with previous EMA is -0.613281
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8610.881143 | max bid: 9567.645714 | min bid: 9495.454545
+Processing 1 BTC for 8610.88 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108610.881143
+
+calculateEMA Old EMA is9534.51 | New EMA is 9535.17 | Δ with previous EMA is -0.658203
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8613.956726 | max bid: 9570.584477 | min bid: 9503.448066
+Processing 1 BTC for 8613.96 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108613.956726
+
+calculateEMA Old EMA is9535.17 | New EMA is 9535.8 | Δ with previous EMA is -0.633789
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8613.598342 | max bid: 9569.707753 | min bid: 9495.929392
+Processing 1 BTC for 8613.6 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108613.598342
+
+calculateEMA Old EMA is9535.8 | New EMA is 9536.47 | Δ with previous EMA is -0.667969
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9612.947120 | min ask: 8616.193197 | max bid: 9571.220172 | min bid: 9496.856647
+Processing 1 BTC for 8616.19 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108616.193197
+
+calculateEMA Old EMA is9536.47 | New EMA is 9537.08 | Δ with previous EMA is -0.613281
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.821432 | min ask: 8614.280516 | max bid: 9568.308208 | min bid: 9496.856647
+Processing 1 BTC for 8614.28 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108614.280516
+
+calculateEMA Old EMA is9537.08 | New EMA is 9537.63 | Δ with previous EMA is -0.549805
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8611.805871 | max bid: 9568.673190 | min bid: 9495.454545
+Processing 1 BTC for 8611.81 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108611.805871
+
+calculateEMA Old EMA is9537.63 | New EMA is 9538.2 | Δ with previous EMA is -0.567383
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8613.528635 | max bid: 9570.108829 | min bid: 9495.454545
+Processing 1 BTC for 8613.53 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108613.528635
+
+calculateEMA Old EMA is9538.2 | New EMA is 9538.76 | Δ with previous EMA is -0.556641
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8613.684159 | max bid: 9570.690427 | min bid: 9496.856647
+Processing 0.0453689 BTC for 8613.68 USDT
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8613.684159 | max bid: 9570.690427 | min bid: 9496.856647
+Processing 0.954631 BTC for 8613.68 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.045369
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108222.891043
+
+calculateEMA Old EMA is9538.76 | New EMA is 9539.22 | Δ with previous EMA is -0.460938
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8609.377625 | max bid: 9565.975139 | min bid: 9495.929392
+Processing 1 BTC for 8609.38 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108609.377625
+
+calculateEMA Old EMA is9539.22 | New EMA is 9539.61 | Δ with previous EMA is -0.392578
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8606.327794 | max bid: 9562.586438 | min bid: 9489.000000
+Processing 0.055137 BTC for 8606.33 USDT
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8606.327794 | max bid: 9562.586438 | min bid: 9489.000000
+Processing 0.463287 BTC for 8606.33 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8606.327794 | max bid: 9562.586438 | min bid: 9489.000000
+Processing 0.481576 BTC for 8606.33 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.055137
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108131.800871
+
+calculateEMA Old EMA is9539.61 | New EMA is 9540 | Δ with previous EMA is -0.388672
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9612.185500 | min ask: 8606.602390 | max bid: 9560.803792 | min bid: 9490.000000
+Processing 0.463373 BTC for 8606.6 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9612.185500 | min ask: 8606.602390 | max bid: 9560.803792 | min bid: 9490.000000
+Processing 0.536627 BTC for 8606.6 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108606.602390
+
+calculateEMA Old EMA is9540 | New EMA is 9540.64 | Δ with previous EMA is -0.634766
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9612.185500 | min ask: 8620.552204 | max bid: 9576.302463 | min bid: 9492.781852
+Processing 0.734045 BTC for 8620.55 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9612.185500 | min ask: 8620.552204 | max bid: 9576.302463 | min bid: 9492.781852
+Processing 0.265955 BTC for 8620.55 USDT
+New wallet situation
+BTC : 9.265955
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106327.869535
+
+calculateEMA Old EMA is9540.64 | New EMA is 9541.18 | Δ with previous EMA is -0.542969
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8616.397252 | max bid: 9573.784725 | min bid: 9496.856647
+Processing 0.271606 BTC for 8616.4 USDT
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8616.397252 | max bid: 9573.784725 | min bid: 9496.856647
+Processing 0.728394 BTC for 8616.4 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.271606
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106276.134473
+
+calculateEMA Old EMA is9541.18 | New EMA is 9541.7 | Δ with previous EMA is -0.521484
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.277135 | min ask: 8615.966407 | max bid: 9574.732657 | min bid: 9495.929392
+Processing 1 BTC for 8615.97 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108615.966407
+
+calculateEMA Old EMA is9541.7 | New EMA is 9542.07 | Δ with previous EMA is -0.365234
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8607.900901 | max bid: 9566.400000 | min bid: 9495.929392
+Processing 1 BTC for 8607.9 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.900901
+
+calculateEMA Old EMA is9542.07 | New EMA is 9542.43 | Δ with previous EMA is -0.364258
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8608.355267 | max bid: 9564.812517 | min bid: 9495.807748
+Processing 1 BTC for 8608.36 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108608.355267
+
+calculateEMA Old EMA is9542.43 | New EMA is 9542.83 | Δ with previous EMA is -0.398438
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8610.770756 | max bid: 9567.513063 | min bid: 9490.000000
+Processing 1 BTC for 8610.77 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108610.770756
+
+calculateEMA Old EMA is9542.83 | New EMA is 9543.14 | Δ with previous EMA is -0.3125
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.821432 | min ask: 8606.381706 | max bid: 9562.303948 | min bid: 9496.856647
+Processing 1 BTC for 8606.38 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108606.381706
+
+calculateEMA Old EMA is9543.14 | New EMA is 9543.44 | Δ with previous EMA is -0.303711
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8606.320122 | max bid: 9560.133203 | min bid: 9495.929392
+Processing 1 BTC for 8606.32 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108606.320122
+
+calculateEMA Old EMA is9543.44 | New EMA is 9543.71 | Δ with previous EMA is -0.267578
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8604.635933 | max bid: 9560.706592 | min bid: 9500.000000
+Processing 1 BTC for 8604.64 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108604.635933
+
+calculateEMA Old EMA is9543.71 | New EMA is 9544 | Δ with previous EMA is -0.289062
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.277135 | min ask: 8606.241744 | max bid: 9562.490827 | min bid: 9495.929392
+Processing 1 BTC for 8606.24 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108606.241744
+
+calculateEMA Old EMA is9544 | New EMA is 9544.26 | Δ with previous EMA is -0.254883
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8604.635903 | max bid: 9560.706559 | min bid: 9500.000000
+Processing 1 BTC for 8604.64 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108604.635903
+
+calculateEMA Old EMA is9544.26 | New EMA is 9544.6 | Δ with previous EMA is -0.34082
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8610.079089 | max bid: 9566.739976 | min bid: 9492.781852
+Processing 0.462977 BTC for 8610.08 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8610.079089 | max bid: 9566.739976 | min bid: 9492.781852
+Processing 0.537023 BTC for 8610.08 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108610.079089
+
+calculateEMA Old EMA is9544.6 | New EMA is 9544.92 | Δ with previous EMA is -0.322266
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8609.398215 | max bid: 9565.998016 | min bid: 9500.000000
+Processing 1 BTC for 8609.4 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108609.398215
+
+calculateEMA Old EMA is9544.92 | New EMA is 9545.15 | Δ with previous EMA is -0.228516
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8604.205644 | max bid: 9564.888812 | min bid: 9507.495914
+Processing 1 BTC for 8604.21 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108604.205644
+
+calculateEMA Old EMA is9545.15 | New EMA is 9545.38 | Δ with previous EMA is -0.230469
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8604.587399 | max bid: 9559.087978 | min bid: 9503.448066
+Processing 0.191891 BTC for 8604.59 USDT
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8604.587399 | max bid: 9559.087978 | min bid: 9503.448066
+Processing 0.808109 BTC for 8604.59 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.191891
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106953.446326
+
+calculateEMA Old EMA is9545.38 | New EMA is 9545.71 | Δ with previous EMA is -0.336914
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8611.419605 | max bid: 9568.177104 | min bid: 9508.474780
+Processing 0.2 BTC for 8611.42 USDT
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8611.419605 | max bid: 9568.177104 | min bid: 9508.474780
+Processing 0.8 BTC for 8611.42 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.200000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106889.135684
+
+calculateEMA Old EMA is9545.71 | New EMA is 9546.03 | Δ with previous EMA is -0.3125
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9610.000000 | min ask: 8610.389746 | max bid: 9569.167366 | min bid: 9507.495914
+Processing 1 BTC for 8610.39 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108610.389746
+
+calculateEMA Old EMA is9546.03 | New EMA is 9546.33 | Δ with previous EMA is -0.300781
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8610.098475 | max bid: 9566.776083 | min bid: 9509.090909
+Processing 1 BTC for 8610.1 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108610.098475
+
+calculateEMA Old EMA is9546.33 | New EMA is 9546.55 | Δ with previous EMA is -0.22168
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8605.598475 | max bid: 9561.576130 | min bid: 9503.027660
+Processing 0.00134 BTC for 8605.6 USDT
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8605.598475 | max bid: 9561.576130 | min bid: 9503.027660
+Processing 0.463326 BTC for 8605.6 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8605.598475 | max bid: 9561.576130 | min bid: 9503.027660
+Processing 0.00136 BTC for 8605.6 USDT
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8605.598475 | max bid: 9561.576130 | min bid: 9503.027660
+Processing 0.52139 BTC for 8605.6 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8605.598475 | max bid: 9561.576130 | min bid: 9503.027660
+Processing 0.012584 BTC for 8605.6 USDT
+New wallet situation
+BTC : 9.015284
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108474.070938
+
+calculateEMA Old EMA is9546.55 | New EMA is 9546.76 | Δ with previous EMA is -0.214844
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8605.418517 | max bid: 9561.576130 | min bid: 9500.000000
+Processing 1 BTC for 8605.42 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108605.418517
+
+calculateEMA Old EMA is9546.76 | New EMA is 9547 | Δ with previous EMA is -0.236328
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8607.109265 | max bid: 9563.454738 | min bid: 9503.027660
+Processing 1 BTC for 8607.11 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.109265
+
+calculateEMA Old EMA is9547 | New EMA is 9547.24 | Δ with previous EMA is -0.235352
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8607.337277 | max bid: 9563.454738 | min bid: 9509.090909
+Processing 1 BTC for 8607.34 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.337277
+
+calculateEMA Old EMA is9547.24 | New EMA is 9547.3 | Δ with previous EMA is -0.0664062
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8596.776197 | max bid: 9551.973552 | min bid: 9495.454545
+Processing 1 BTC for 8596.78 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108596.776197
+
+calculateEMA Old EMA is9547.3 | New EMA is 9547.4 | Δ with previous EMA is -0.0986328
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8598.985461 | max bid: 9554.428290 | min bid: 9501.016107
+Processing 1 BTC for 8598.99 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108598.985461
+
+calculateEMA Old EMA is9547.4 | New EMA is 9547.62 | Δ with previous EMA is -0.222656
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.821432 | min ask: 8607.199286 | max bid: 9565.730359 | min bid: 9496.856647
+Processing 1 BTC for 8607.2 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.199286
+
+calculateEMA Old EMA is9547.62 | New EMA is 9547.8 | Δ with previous EMA is -0.171875
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8604.106473 | max bid: 9560.118303 | min bid: 9495.929392
+Processing 0.0693388 BTC for 8604.11 USDT
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8604.106473 | max bid: 9560.118303 | min bid: 9495.929392
+Processing 0.930661 BTC for 8604.11 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.069339
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108007.507711
+
+calculateEMA Old EMA is9547.8 | New EMA is 9548.02 | Δ with previous EMA is -0.222656
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8607.737303 | max bid: 9564.152559 | min bid: 9509.090909
+Processing 0.0478905 BTC for 8607.74 USDT
+SELL offer was accepted.
+max ask: 9609.681176 | min ask: 8607.737303 | max bid: 9564.152559 | min bid: 9509.090909
+Processing 0.952109 BTC for 8607.74 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.047891
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108195.508287
+
+calculateEMA Old EMA is9548.02 | New EMA is 9548.23 | Δ with previous EMA is -0.208008
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8607.060782 | max bid: 9563.400869 | min bid: 9510.000000
+Processing 1 BTC for 8607.06 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.060782
+
+calculateEMA Old EMA is9548.23 | New EMA is 9548.48 | Δ with previous EMA is -0.257812
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9611.531629 | min ask: 8610.660000 | max bid: 9566.700595 | min bid: 9510.000000
+Processing 0.463054 BTC for 8610.66 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9611.531629 | min ask: 8610.660000 | max bid: 9566.700595 | min bid: 9510.000000
+Processing 0.0474887 BTC for 8610.66 USDT
+SELL offer was accepted.
+max ask: 9611.531629 | min ask: 8610.660000 | max bid: 9566.700595 | min bid: 9510.000000
+Processing 0.489458 BTC for 8610.66 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.047489
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108201.750606
+
+calculateEMA Old EMA is9548.48 | New EMA is 9548.69 | Δ with previous EMA is -0.207031
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8607.632962 | max bid: 9563.558419 | min bid: 9503.448066
+Processing 0.463186 BTC for 8607.63 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8607.632962 | max bid: 9563.558419 | min bid: 9503.448066
+Processing 0.536814 BTC for 8607.63 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.632962
+
+calculateEMA Old EMA is9548.69 | New EMA is 9548.8 | Δ with previous EMA is -0.105469
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9601.971778 | min ask: 8601.014228 | max bid: 9556.682475 | min bid: 9503.027660
+Processing 1 BTC for 8601.01 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108601.014228
+
+calculateEMA Old EMA is9548.8 | New EMA is 9548.89 | Δ with previous EMA is -0.0917969
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8600.189250 | max bid: 9555.477767 | min bid: 9505.977677
+Processing 0.2 BTC for 8600.19 USDT
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8600.189250 | max bid: 9555.477767 | min bid: 9505.977677
+Processing 0.8 BTC for 8600.19 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.200000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106880.151400
+
+calculateEMA Old EMA is9548.89 | New EMA is 9548.97 | Δ with previous EMA is -0.0800781
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.886948 | min ask: 8599.500000 | max bid: 9557.812970 | min bid: 9505.977677
+Processing 1 BTC for 8599.5 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108599.500000
+
+calculateEMA Old EMA is9548.97 | New EMA is 9549.05 | Δ with previous EMA is -0.078125
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8599.500000 | max bid: 9555.000000 | min bid: 9508.474780
+Processing 1 BTC for 8599.5 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108599.500000
+
+calculateEMA Old EMA is9549.05 | New EMA is 9549.12 | Δ with previous EMA is -0.0761719
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8599.500000 | max bid: 9555.000000 | min bid: 9495.454545
+Processing 1 BTC for 8599.5 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108599.500000
+
+calculateEMA Old EMA is9549.12 | New EMA is 9549.2 | Δ with previous EMA is -0.0751953
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8599.500000 | max bid: 9555.000000 | min bid: 9508.474780
+Processing 0.0204962 BTC for 8599.5 USDT
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8599.500000 | max bid: 9555.000000 | min bid: 9508.474780
+Processing 0.979504 BTC for 8599.5 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.020496
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108423.242584
+
+calculateEMA Old EMA is9549.2 | New EMA is 9549.31 | Δ with previous EMA is -0.111328
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8602.154204 | max bid: 9557.949116 | min bid: 9509.090909
+Processing 1 BTC for 8602.15 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108602.154204
+
+calculateEMA Old EMA is9549.31 | New EMA is 9549.47 | Δ with previous EMA is -0.158203
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8605.597401 | max bid: 9561.774890 | min bid: 9510.204082
+Processing 1 BTC for 8605.6 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108605.597401
+
+calculateEMA Old EMA is9549.47 | New EMA is 9549.66 | Δ with previous EMA is -0.1875
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8607.911233 | max bid: 9564.345814 | min bid: 9510.204082
+Processing 0.463202 BTC for 8607.91 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8607.911233 | max bid: 9564.345814 | min bid: 9510.204082
+Processing 0.536798 BTC for 8607.91 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.911233
+
+calculateEMA Old EMA is9549.66 | New EMA is 9549.77 | Δ with previous EMA is -0.118164
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9609.154899 | min ask: 8603.236922 | max bid: 9559.152135 | min bid: 9509.090909
+Processing 1 BTC for 8603.24 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108603.236922
+
+calculateEMA Old EMA is9549.77 | New EMA is 9549.85 | Δ with previous EMA is -0.0761719
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8600.321726 | max bid: 9559.152135 | min bid: 9503.448066
+Processing 0.28262 BTC for 8600.32 USDT
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8600.321726 | max bid: 9559.152135 | min bid: 9503.448066
+Processing 0.463453 BTC for 8600.32 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8600.321726 | max bid: 9559.152135 | min bid: 9503.448066
+Processing 0.253926 BTC for 8600.32 USDT
+New wallet situation
+BTC : 9.536547
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 103985.846883
+
+calculateEMA Old EMA is9549.85 | New EMA is 9550 | Δ with previous EMA is -0.145508
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8605.461590 | max bid: 9561.648474 | min bid: 9513.568000
+Processing 0.463332 BTC for 8605.46 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8605.461590 | max bid: 9561.648474 | min bid: 9513.568000
+Processing 0.536668 BTC for 8605.46 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108605.461590
+
+calculateEMA Old EMA is9550 | New EMA is 9550.18 | Δ with previous EMA is -0.18457
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8608.504193 | max bid: 9565.300000 | min bid: 9520.000000
+Processing 0.029803 BTC for 8608.5 USDT
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8608.504193 | max bid: 9565.300000 | min bid: 9520.000000
+Processing 0.0676918 BTC for 8608.5 USDT
+SELL offer was accepted.
+max ask: 9608.829541 | min ask: 8608.504193 | max bid: 9565.300000 | min bid: 9520.000000
+Processing 0.902505 BTC for 8608.5 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.097495
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 107769.219799
+
+calculateEMA Old EMA is9550.18 | New EMA is 9550.36 | Δ with previous EMA is -0.18457
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8608.770000 | max bid: 9563.428602 | min bid: 9510.000000
+Processing 0.0260151 BTC for 8608.77 USDT
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8608.770000 | max bid: 9563.428602 | min bid: 9510.000000
+Processing 0.135 BTC for 8608.77 USDT
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8608.770000 | max bid: 9563.428602 | min bid: 9510.000000
+Processing 0.166039 BTC for 8608.77 USDT
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8608.770000 | max bid: 9563.428602 | min bid: 9510.000000
+Processing 0.01 BTC for 8608.77 USDT
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8608.770000 | max bid: 9563.428602 | min bid: 9510.000000
+Processing 0.52 BTC for 8608.77 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8608.770000 | max bid: 9563.428602 | min bid: 9510.000000
+Processing 0.142946 BTC for 8608.77 USDT
+New wallet situation
+BTC : 9.480000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 104476.560400
+
+calculateEMA Old EMA is9550.36 | New EMA is 9550.52 | Δ with previous EMA is -0.15625
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9601.386348 | min ask: 8606.876675 | max bid: 9564.091594 | min bid: 9508.474780
+Processing 0.463214 BTC for 8606.88 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9601.386348 | min ask: 8606.876675 | max bid: 9564.091594 | min bid: 9508.474780
+Processing 0.536786 BTC for 8606.88 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108606.876675
+
+calculateEMA Old EMA is9550.52 | New EMA is 9550.61 | Δ with previous EMA is -0.0859375
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8601.912228 | max bid: 9562.202115 | min bid: 9513.568000
+Processing 1 BTC for 8601.91 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108601.912228
+
+calculateEMA Old EMA is9550.61 | New EMA is 9550.76 | Δ with previous EMA is -0.157227
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8607.382795 | max bid: 9563.758661 | min bid: 9510.204082
+Processing 1 BTC for 8607.38 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108607.382795
+
+calculateEMA Old EMA is9550.76 | New EMA is 9550.86 | Δ with previous EMA is -0.100586
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.506827 | min ask: 8603.295073 | max bid: 9559.216748 | min bid: 9509.090909
+Processing 1 BTC for 8603.3 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108603.295073
+
+calculateEMA Old EMA is9550.86 | New EMA is 9551.01 | Δ with previous EMA is -0.141602
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8606.535194 | max bid: 9562.207647 | min bid: 9514.554762
+Processing 1 BTC for 8606.54 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108606.535194
+
+calculateEMA Old EMA is9551.01 | New EMA is 9551.13 | Δ with previous EMA is -0.125
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9600.000000 | min ask: 8605.487700 | max bid: 9561.727741 | min bid: 9510.204082
+Processing 0.894794 BTC for 8605.49 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9600.000000 | min ask: 8605.487700 | max bid: 9561.727741 | min bid: 9510.204082
+Processing 0.0644747 BTC for 8605.49 USDT
+SELL offer was accepted.
+max ask: 9600.000000 | min ask: 8605.487700 | max bid: 9561.727741 | min bid: 9510.204082
+Processing 0.0407317 BTC for 8605.49 USDT
+New wallet situation
+BTC : 9.105206
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 107700.135491
+
+calculateEMA Old EMA is9551.13 | New EMA is 9551.23 | Δ with previous EMA is -0.103516
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9600.209615 | min ask: 8603.995054 | max bid: 9559.994504 | min bid: 9510.204082
+Processing 0.842158 BTC for 8604 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9600.209615 | min ask: 8603.995054 | max bid: 9559.994504 | min bid: 9510.204082
+Processing 0.0713099 BTC for 8604 USDT
+SELL offer was accepted.
+max ask: 9600.209615 | min ask: 8603.995054 | max bid: 9559.994504 | min bid: 9510.204082
+Processing 0.0865322 BTC for 8604 USDT
+New wallet situation
+BTC : 9.157842
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 107245.922578
+
+calculateEMA Old EMA is9551.23 | New EMA is 9551.36 | Δ with previous EMA is -0.12207
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9601.971778 | min ask: 8605.515324 | max bid: 9559.154148 | min bid: 9510.000000
+Processing 0.859667 BTC for 8605.52 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9601.971778 | min ask: 8605.515324 | max bid: 9559.154148 | min bid: 9510.000000
+Processing 0.140333 BTC for 8605.52 USDT
+New wallet situation
+BTC : 9.140333
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 107397.880898
+
+calculateEMA Old EMA is9551.36 | New EMA is 9551.48 | Δ with previous EMA is -0.125977
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9602.200000 | min ask: 8606.035623 | max bid: 9562.261803 | min bid: 9510.204082
+Processing 1 BTC for 8606.04 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108606.035623
+
+calculateEMA Old EMA is9551.48 | New EMA is 9551.6 | Δ with previous EMA is -0.117188
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9601.971778 | min ask: 8605.469830 | max bid: 9561.004486 | min bid: 9510.204082
+Processing 1 BTC for 8605.47 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108605.469830
+
+calculateEMA Old EMA is9551.6 | New EMA is 9551.66 | Δ with previous EMA is -0.0605469
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8601.184002 | max bid: 9556.871113 | min bid: 9509.090909
+Processing 1 BTC for 8601.18 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108601.184002
+
+calculateEMA Old EMA is9551.66 | New EMA is 9551.77 | Δ with previous EMA is -0.113281
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9601.386348 | min ask: 8605.489164 | max bid: 9560.698421 | min bid: 9510.000000
+Processing 1 BTC for 8605.49 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108605.489164
+
+calculateEMA Old EMA is9551.77 | New EMA is 9551.88 | Δ with previous EMA is -0.107422
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.228021 | min ask: 8605.155099 | max bid: 9561.283443 | min bid: 9509.090909
+Processing 1 BTC for 8605.16 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108605.155099
+
+calculateEMA Old EMA is9551.88 | New EMA is 9551.99 | Δ with previous EMA is -0.105469
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.228021 | min ask: 8605.155099 | max bid: 9560.820779 | min bid: 9513.568000
+Processing 0.2 BTC for 8605.16 USDT
+SELL offer was accepted.
+max ask: 9607.228021 | min ask: 8605.155099 | max bid: 9560.820779 | min bid: 9513.568000
+Processing 0.8 BTC for 8605.16 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.200000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106884.124079
+
+calculateEMA Old EMA is9551.99 | New EMA is 9552.08 | Δ with previous EMA is -0.0947266
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9600.386627 | min ask: 8604.462610 | max bid: 9560.514012 | min bid: 9508.531895
+Processing 1 BTC for 8604.46 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108604.462610
+
+calculateEMA Old EMA is9552.08 | New EMA is 9552.26 | Δ with previous EMA is -0.177734
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9601.971778 | min ask: 8611.245606 | max bid: 9566.587104 | min bid: 9510.000000
+Processing 0.985615 BTC for 8611.25 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9601.971778 | min ask: 8611.245606 | max bid: 9566.587104 | min bid: 9510.000000
+Processing 0.0143846 BTC for 8611.25 USDT
+New wallet situation
+BTC : 9.014385
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108487.376282
+
+calculateEMA Old EMA is9552.26 | New EMA is 9552.4 | Δ with previous EMA is -0.143555
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9601.386348 | min ask: 8608.734012 | max bid: 9565.260013 | min bid: 9509.090909
+Processing 0.985752 BTC for 8608.73 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9601.386348 | min ask: 8608.734012 | max bid: 9565.260013 | min bid: 9509.090909
+Processing 0.014248 BTC for 8608.73 USDT
+New wallet situation
+BTC : 9.014248
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108486.076425
+
+calculateEMA Old EMA is9552.4 | New EMA is 9552.54 | Δ with previous EMA is -0.134766
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9600.386627 | min ask: 8608.199764 | max bid: 9564.666374 | min bid: 9521.885281
+Processing 0.985813 BTC for 8608.2 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9600.386627 | min ask: 8608.199764 | max bid: 9564.666374 | min bid: 9521.885281
+Processing 0.0141872 BTC for 8608.2 USDT
+New wallet situation
+BTC : 9.014187
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108486.073512
+
+calculateEMA Old EMA is9552.54 | New EMA is 9552.69 | Δ with previous EMA is -0.151367
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8609.760000 | max bid: 9567.204887 | min bid: 9513.568000
+Processing 0.950422 BTC for 8609.76 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8609.760000 | max bid: 9567.204887 | min bid: 9513.568000
+Processing 0.0168826 BTC for 8609.76 USDT
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8609.760000 | max bid: 9567.204887 | min bid: 9513.568000
+Processing 0.0326952 BTC for 8609.76 USDT
+New wallet situation
+BTC : 9.049578
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108182.906524
+
+calculateEMA Old EMA is9552.69 | New EMA is 9552.84 | Δ with previous EMA is -0.149414
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8609.820389 | max bid: 9565.039922 | min bid: 9508.474780
+Processing 0.937112 BTC for 8609.82 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9607.971778 | min ask: 8609.820389 | max bid: 9565.039922 | min bid: 9508.474780
+Processing 0.0628878 BTC for 8609.82 USDT
+New wallet situation
+BTC : 9.062888
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108068.367898
+
+calculateEMA Old EMA is9552.84 | New EMA is 9552.98 | Δ with previous EMA is -0.137695
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8608.953750 | max bid: 9565.504167 | min bid: 9510.204082
+Processing 1 BTC for 8608.95 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108608.953750
+
+calculateEMA Old EMA is9552.98 | New EMA is 9553.13 | Δ with previous EMA is -0.158203
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8610.884877 | max bid: 9565.712184 | min bid: 9513.568000
+Processing 0.3 BTC for 8610.88 USDT
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8610.884877 | max bid: 9565.712184 | min bid: 9513.568000
+Processing 0.7 BTC for 8610.88 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.300000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106027.619414
+
+calculateEMA Old EMA is9553.13 | New EMA is 9553.29 | Δ with previous EMA is -0.15918
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8611.200000 | max bid: 9568.000000 | min bid: 9518.494463
+Processing 0.717131 BTC for 8611.2 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8611.200000 | max bid: 9568.000000 | min bid: 9518.494463
+Processing 0.0106836 BTC for 8611.2 USDT
+SELL offer was accepted.
+max ask: 9605.982779 | min ask: 8611.200000 | max bid: 9568.000000 | min bid: 9518.494463
+Processing 0.272185 BTC for 8611.2 USDT
+New wallet situation
+BTC : 9.282869
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106175.359328
+
+calculateEMA Old EMA is9553.29 | New EMA is 9553.35 | Δ with previous EMA is -0.0546875
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.844752 | min ask: 8602.583804 | max bid: 9558.426448 | min bid: 9508.474780
+Processing 1 BTC for 8602.58 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108602.583804
+
+calculateEMA Old EMA is9553.35 | New EMA is 9553.36 | Δ with previous EMA is -0.00976562
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8598.845927 | max bid: 9554.273252 | min bid: 9513.568000
+Processing 0.459712 BTC for 8598.85 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+SELL offer was accepted.
+max ask: 9606.466687 | min ask: 8598.845927 | max bid: 9554.273252 | min bid: 9513.568000
+Processing 0.540288 BTC for 8598.85 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 108598.845927
+
+calculateEMA Old EMA is9553.36 | New EMA is 9553.38 | Δ with previous EMA is -0.0273438
+Placing a SELL order
+SELL offer was accepted.
+max ask: 9605.833505 | min ask: 8600.307400 | max bid: 9555.897111 | min bid: 9510.204082
+Processing 0.194862 BTC for 8600.31 USDT
+SELL offer was accepted.
+max ask: 9605.833505 | min ask: 8600.307400 | max bid: 9555.897111 | min bid: 9510.204082
+Processing 0.805138 BTC for 8600.31 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 9.194862
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 106924.431289
+
+calculateEMA Old EMA is9553.38 | New EMA is 9553.38 | Δ with previous EMA is 0.00878906
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9605.844752 | min ask: 9554.231769 | max bid: 10507.811441 | min bid: 9503.448066
+Processing 1 BTC for 9554.23 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90445.768231
+
+calculateEMA Old EMA is9553.38 | New EMA is 9553.3 | Δ with previous EMA is 0.0791016
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9607.971778 | min ask: 9550.000000 | max bid: 10500.411342 | min bid: 9492.781852
+Processing 1 BTC for 9550 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90450.000000
+
+calculateEMA Old EMA is9553.3 | New EMA is 9553.22 | Δ with previous EMA is 0.0771484
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9601.386348 | min ask: 9545.828493 | max bid: 10500.411342 | min bid: 9496.856647
+Processing 1 BTC for 9545.83 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90454.171507
+
+calculateEMA Old EMA is9553.22 | New EMA is 9553.16 | Δ with previous EMA is 0.0644531
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9605.844752 | min ask: 9547.465204 | max bid: 10501.619706 | min bid: 9503.027660
+Processing 0.486828 BTC for 9547.47 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+BUY offer was accepted.
+max ask: 9605.844752 | min ask: 9547.465204 | max bid: 10501.619706 | min bid: 9503.027660
+Processing 0.513172 BTC for 9547.72 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90452.404804
+
+calculateEMA Old EMA is9553.16 | New EMA is 9553.12 | Δ with previous EMA is 0.0302734
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9601.971778 | min ask: 9548.542629 | max bid: 10505.297699 | min bid: 9508.474780
+Processing 1 BTC for 9548.54 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90451.457371
+
+calculateEMA Old EMA is9553.12 | New EMA is 9553.09 | Δ with previous EMA is 0.03125
+Placing a BUY order
+BUY offer was accepted.
+max ask: 9601.971778 | min ask: 9550.000000 | max bid: 10505.000000 | min bid: 9503.448066
+Processing 1 BTC for 9550 USDT
+Minimum amount accepted for trade was hit.
+Wallet has sufficient funds to proceed.
+Processing sale...
+New wallet situation
+BTC : 11.000000
+DOGE : 50000.000000
+ETH : 50.000000
+USDT : 90450.000000
+
